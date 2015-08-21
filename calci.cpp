@@ -1,4 +1,4 @@
 Hello,
     I am mayuri from cummins college of engineering.
     This is ESDL session.
-    we created github repository.
+    ESDL stands for employibility skills developement lab.
